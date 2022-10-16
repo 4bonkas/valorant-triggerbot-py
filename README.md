@@ -28,7 +28,3 @@ Will I get banned using this?
 
 - highly unlikely as long as you run obfuscate.py
 - (i am secretly code genius and i own valorant trust)
-
-####### Why am I releasing this?
-
-- i am code genius and a very generous person trust <33
